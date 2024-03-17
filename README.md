@@ -55,4 +55,4 @@ endmodule
 ![Screenshot 2024-03-17 183411](https://github.com/abiramipitchaimani/HALF_ADDER/assets/163704307/715d9b88-de0d-490b-a89d-137b219bf1c7)
 
 # RESULT:
-            Hence, the stimulation and synthesis of a half adder was run successfully by using Xilinx ISE.
+Hence, the stimulation and synthesis of a half adder was run successfully by using Xilinx ISE.
